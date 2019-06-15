@@ -1,0 +1,20 @@
+ <resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Thomas Mao</string>
+     <string name="yellow_star">Yellow star</string>
+     <string name="bio">
+Hi, my name is Thomas.
+
+\n\nI am learning how to write Android apps in Kotlin.
+\nThis app is a small practice project that\'s part of an online course on Udacity.
+
+\n\nWhen I\'m not learning Kotlin, I write programs in Python, Javascript and C++.
+
+\n\nI love brewing nice coffee, and make a cup of latte every morning using freshly-ground beans.
+\nDuring the weekend, I practice pouring latte art :D
+\nRecently, I am also learning how to brew pour-over specialty coffee using the "4:6 method",
+a brewing technique which won first place in the 2016 World Brewers Cup.
+
+\n\nNice to meet you!\n
+     </string>
+ </resources>

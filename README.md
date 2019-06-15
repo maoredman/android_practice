@@ -12,3 +12,10 @@ Things I did:
 * Learned about components of an Android app, such as activities, layouts, drawables, string values, Gradle build files and namespaces
 * Used `lateinit` to improve performance by avoiding repetitive calls to `findViewById`
 * Learned some basics on backward compatibility
+
+## AboutMe
+TODO: description and .gif
+
+Things I did:
+* Used Android Studio's Layout Editor to create views
+* Set view attributes and extracted styles for reusability
