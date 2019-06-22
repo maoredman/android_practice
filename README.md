@@ -14,8 +14,11 @@ Things I did:
 * Learned some basics on backward compatibility
 
 ## AboutMe
-TODO: description and .gif
+Displays a short personal bio with configurable text
+
+![](./about_me.gif)
 
 Things I did:
-* Used Android Studio's Layout Editor to create views
+* Learned to use Android Studio's Layout Editor to create views (`TextView`, `ScrollView`, `ImageView`, `EditText`)
 * Set view attributes and extracted styles for reusability
+* Used data binding to improve performance
