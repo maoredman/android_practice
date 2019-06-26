@@ -5,6 +5,7 @@ A collection of apps I wrote for the [Developing Android Apps with Kotlin](https
 * [DiceRoller](#DiceRoller): a six-face die which can be rolled by clicking a button
 * [AboutMe](#AboutMe): displays configurable text and a scrollable personal bio
 * [ColorMyView](#ColorMyView): boxes that change color when clicked or when buttons are pressed
+* [TriviaGame](#TriviaGame): TODO
 
 ## DiceRoller
 A six-face die which can be rolled by clicking a button
@@ -34,4 +35,14 @@ Boxes that change color when clicked or when buttons are pressed
 
 Things I did:
 * Learned to create contraints, ratios, bias, chains and baselines to adapt to different screen configurations
+
+## TriviaGame
+TODO: description and image
+
+Things I did:
+* Learned about Navigation Graphs, the Navigation Controller and `NavHostFragment`
+* Set up navigation graph for conditional navigation between fragments, used `safe-args` dependency (which generates `NavDirections` classes)
+* Manipulated fragment back stack with inclusive and exclusive forms of `popUpTo`
+* Created up button (hooked to navigation) and "About" menu item in action bar
+* Used implicit intents to send data to other apps
 
