@@ -5,6 +5,7 @@ A collection of apps I wrote for the [Developing Android Apps with Kotlin](https
 * [DiceRoller](#DiceRoller): a six-face die which can be rolled by clicking a button
 * [AboutMe](#AboutMe): displays configurable text and a scrollable personal bio
 * [ColorMyView](#ColorMyView): boxes that change color when clicked or when buttons are pressed
+* [ShoppingList](#ShoppingList): an app to add items to a shopping list
 * [TriviaGame](#TriviaGame): TODO
 
 ## DiceRoller
@@ -36,8 +37,20 @@ Boxes that change color when clicked or when buttons are pressed
 Things I did:
 * Learned to create contraints, ratios, bias, chains and baselines to adapt to different screen configurations
 
+## ShoppingList
+An app to add items to a shopping list
+
+![](./shopping_list.gif)
+
+Things I did:
+* Learned how to build `RecyclerViews`
+* Restore state with `onSaveInstanceState()` after configuration changes such as switching to Landscape Mode
+* Started second activity and used explicit intents to pass information between activities
+
 ## TriviaGame
 TODO: description and image
+
+![](./TODO)
 
 Things I did:
 * Learned about Navigation Graphs, the Navigation Controller and `NavHostFragment`
