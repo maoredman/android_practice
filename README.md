@@ -6,7 +6,7 @@ A collection of apps I wrote for the [Developing Android Apps with Kotlin](https
 * [AboutMe](#AboutMe): displays configurable text and a scrollable personal bio
 * [ColorMyView](#ColorMyView): boxes that change color when clicked or when buttons are pressed
 * [ShoppingList](#ShoppingList): an app to add items to a shopping list
-* [TriviaGame](#TriviaGame): TODO
+* [TriviaGame](#TriviaGame): multiple-choice trivia game
 
 ## DiceRoller
 A six-face die which can be rolled by clicking a button
@@ -48,7 +48,7 @@ Things I did:
 * Started second activity and used explicit intents to pass information between activities
 
 ## TriviaGame
-TODO: description and image
+Multiple-choice trivia game
 
 ![](./trivia_game.gif)
 
