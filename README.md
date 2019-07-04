@@ -50,12 +50,13 @@ Things I did:
 ## TriviaGame
 TODO: description and image
 
-![](./TODO)
+![](./trivia_game.gif)
 
 Things I did:
 * Learned about Navigation Graphs, the Navigation Controller and `NavHostFragment`
-* Set up navigation graph for conditional navigation between fragments, used `safe-args` dependency (which generates `NavDirections` classes)
+* Set up navigation graph for conditional navigation between fragments, used `safe-args` dependency (which generates `NavDirections` classes), added enter/exit animations
 * Manipulated fragment back stack with inclusive and exclusive forms of `popUpTo`
 * Created up button (hooked to navigation) and "About" menu item in action bar
+* Created navigation menu (unlocked only in starting fragment)
 * Used implicit intents to send data to other apps
 
